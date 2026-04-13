@@ -8,7 +8,7 @@
   ---
 
 ## Project Information
-This project is a Chat Application, you login first then you can send and recieve messages. This Chat Application has 3 classes in total, which is the MainApp.java, Login.java where the system checks the username, password and cell phone number of the user lastly there is a LoginTest.java for testing the login part, it basically runs some checks to make sure the previous class works properly which is the Login.java class, like wrong passwords, username and cell phone number, and I also used JUnit for this .
+This project is a Chat Application, you login first then you can send and recieve messages. This Chat Application has 3 classes in total, which is the MainApp.java, Login.java where the system checks the username, password and cell phone number of the user lastly there is a LoginTest.java for testing the login part, it basically runs some checks to make sure the previous class works properly which is the Login.java class, like wrong passwords, username and cell phone number, and I also used JUnit for this code.
 
 ----
 ## Features
