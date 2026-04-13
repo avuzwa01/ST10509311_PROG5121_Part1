@@ -1,7 +1,7 @@
 # Chat Application - Part 1
 
 ## Student Information 
-- Name: Avuzwa
+- Name: Avuzwa Mfunane
 - Student Number: ST10509311
 - Module: PROG5121
 
